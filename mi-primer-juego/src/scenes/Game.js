@@ -24,7 +24,7 @@ export class Game extends Scene
 
         this.load.spritesheet('cr7sprite', 'cr7spritesheet.png', { frameWidth: 80, frameHeight: 155 });
 
-        // espacios
+        // mas espacios
         
     }
 
